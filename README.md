@@ -10,6 +10,6 @@ many ideas already!
 
 You can reach me on various media as listed below:
 
-LinkedIn: Matthew Akrigg, using link - www.linkedin.com/in/matthew-akrigg-656b32251 , Instagram: @matthewakrigg, X (Twitter): @mattak05
+LinkedIn: Matthew Akrigg, using link - www.linkedin.com/in/matthewakrigg , Instagram: @matthewakrigg, X (Twitter): @mattak05
 
 If you have anything else you would like to know, feel free to contact me :) 
