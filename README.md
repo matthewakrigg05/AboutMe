@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  LinkedIn: https://www.linkedin.com/feed/
-  X: https://twitter.com/mattak05
-  Instagram: https://www.instagram.com/matthewakrigg/?hl=en
+  LinkedIn: https://www.linkedin.com/feed/ <br />
+  X: https://twitter.com/mattak05 <br />
+  Instagram: https://www.instagram.com/matthewakrigg/?hl=en <br />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
