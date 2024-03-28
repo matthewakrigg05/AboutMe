@@ -1,15 +1,17 @@
-Hi, I’m @matthewakrigg05, I am a first year Computer Science Student at Edge Hill University, near Liverpool, with ambitions of becoming a software engineer.
+<h1 align="center">Hi 👋, I'm Matt</h1>
+<h3 align="center">A computer science student with a ambitions of being a software engineer</h3>
 
-I’m interested in coding (obviously), football and music amongst various other things. My faviourite language so far is python as its the one that I am currently
-the most familiar with, Middlesborough is the team that I support and my favourite bands are Green Day and Catfish and the Bottlemen. I also like to play games 
-like Football Manager and Chess!
+- 🔭 I’m currently working on [MyEMS](https://github.com/matthewakrigg05/MyEMS)
 
-I’m currently learning to program in python and java through my university course. Currently the personal projects I am working on are written in 
-python but in future I will be learning more about java and C# and building projects in those languages which I cannot wait for because I have so
-many ideas already!
+- 🌱 I’m currently learning **Java Swing, Python and Web Dev**
 
-You can reach me on various media as listed below:
+- 👨‍💻 All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
-LinkedIn: Matthew Akrigg, using link - www.linkedin.com/in/matthewakrigg , Instagram: @matthewakrigg, X (Twitter): @mattak05
+- ⚡ Fun fact **I like Music and Video Games**
 
-If you have anything else you would like to know, feel free to contact me :) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
