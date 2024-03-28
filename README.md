@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A computer science student with a ambitions of being a software engineer</h3>
+<h1 align="left">Hi 👋, I'm Matt</h1>
+<h3 align="left">A computer science student with a ambitions of being a software engineer</h3>
 
-- 🔭 I’m currently working on [MyEMS](https://github.com/matthewakrigg05/MyEMS)
+-  Currently I am working on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS)
 
-- 🌱 I’m currently learning **Java Swing, Python and Web Dev**
+- I’m also learning **Java Swing, Python and Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
+- All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
-- ⚡ Fun fact **I like Music and Video Games**
+-  Some more about me: **I like Music and Video Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  LinkedIn: https://www.linkedin.com/feed/
+  X: https://twitter.com/mattak05
+  Instagram: https://www.instagram.com/matthewakrigg/?hl=en
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
