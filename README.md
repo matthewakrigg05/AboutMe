@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Matt</h1>
+<h1 align="left">Hi, I'm Matt</h1>
 <h3 align="left">A computer science student with a ambitions of being a software engineer</h3>
 
 -  Currently I am working on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS)
@@ -7,9 +7,9 @@
 
 - All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
--  Some more about me: **I like Music and Video Games**
+-  Some more about me: **I like Music and Video Games.** Green day and Catfish and the bottlemen are my favourite bands and I am currently playing FC24 and CS2 the most.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
   LinkedIn: https://www.linkedin.com/feed/ <br />
   X: https://twitter.com/mattak05 <br />
