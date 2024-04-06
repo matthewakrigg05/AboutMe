@@ -3,7 +3,7 @@
 
 -  Currently I am working on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS)
 
-- I’m also learning **Java Swing, Python and Web Dev**
+- I’m also learning more on the side, **Java Swing, Python and Web Dev**
 
 - All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
