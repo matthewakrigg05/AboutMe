@@ -11,7 +11,7 @@
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-  LinkedIn: https://www.linkedin.com/feed/ <br />
+  LinkedIn: www.linkedin.com/in/matthewakrigg <br />
   X: https://twitter.com/mattak05 <br />
   Instagram: https://www.instagram.com/matthewakrigg/?hl=en <br />
 </p>
