@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Matt</h1>
 <h3 align="left">A computer science student with a ambitions of being a software engineer</h3>
 
--  Currently I am working on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS)
+-  Currently I am working mostly on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS) but I like to frequently go back to my older projects to work on them some more too!
 
 - I’m also learning more on the side, **Java Swing, Python and Web Dev**
 
