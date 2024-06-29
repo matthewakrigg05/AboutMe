@@ -3,11 +3,11 @@
 
 -  Currently I am working mostly on an Employee Management System [MyEMS](https://github.com/matthewakrigg05/MyEMS) but I like to frequently go back to my older projects to work on them some more too!
 
+- My current side project is a file locking script to aid with my productivity! fileLocker (https://github.com/matthewakrigg05/fileLocker)
+
 - I’m also learning more on the side, **Java Swing, Python and Web Dev**
 
 - All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
-
--  Some more about me: **I like Music and Video Games.** Green day and Catfish and the bottlemen are my favourite bands and I am currently playing Hearthstone and Football Manager the most.
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
