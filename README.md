@@ -5,7 +5,7 @@
 
 - My current side project is a file locking script to aid with my productivity! fileLocker (https://github.com/matthewakrigg05/fileLocker)
 
-- I’m also learning more on the side, **Java Swing, Python and Web Dev**
+- I’m also learning more on the side: **Java Swing, Python and Web Dev**
 
 - All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
