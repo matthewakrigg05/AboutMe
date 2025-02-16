@@ -7,7 +7,7 @@
 
 - I’m also learning more on the side: **Java Swing, Python and Web Dev**
 
-- All of my projects are available at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
+- All of my projects are available here at [https://github.com/matthewakrigg05](https://github.com/matthewakrigg05)
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
